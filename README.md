@@ -1,11 +1,12 @@
 # Challenge_memcached_ruby
 
-Execute as server: On a command-line interface go to de directory where the program was downloaded ex: C:Users/usuario/Downloads/Challenge_ruby_BC
+##Execute as server: 
+On a command-line interface go to de directory where the program was downloaded ex: C:Users/usuario/Downloads/Challenge_ruby_BC
 
 
 write: "interactuar" to start the server
 
-Execute as clients:
+##Execute as clients:
 
 
 Once the server has already started write on a command line: "Telnet localhost 2000" then you can start using all server functions.
@@ -29,7 +30,7 @@ Ex 2: cas [noreply] (noreply optional) use cas to modify a key by knowing the va
 cas key 2 5555 3 cas
 
 
-Execute tests with rspec gem Once the server has already started write on a command line:
+##Execute tests with rspec gem Once the server has already started write on a command line:
 
 
 rspec spec/lib/challenge_test_rspec.rb
