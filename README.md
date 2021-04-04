@@ -1,7 +1,8 @@
 # Challenge_memcached_ruby
 
-##Execute as server: 
-On a command-line interface go to de directory where the program was downloaded ex: C:Users/usuario/Downloads/Challenge_ruby_BC
+#[Execute as server:] 
+*On a command-line interface go to de directory where the program was downloaded 
+**ex: C:Users/usuario/Downloads/Challenge_ruby_BC
 
 
 write: "interactuar" to start the server
